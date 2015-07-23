@@ -17,11 +17,11 @@ html {
 
 a:link, a:visited {
   text-decoration: none;
-  color:#444;
+  color:#666;
   transition: color 0.5s linear;
 }
 a:hover {
-  color:#666;
+  color:#444;
 }
 
 .shares {
@@ -31,4 +31,11 @@ a:hover {
 }
 #link-refresh, #link-source {
   padding: 5px;
+}
+footer {
+  font-family: sans-serif;
+  font-size: small;
+  position:absolute;
+  bottom: 5px;
+  right: 10px;
 }
