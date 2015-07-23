@@ -1,0 +1,34 @@
+.centered {
+  display: block;
+  margin: 10% 25%;
+  position: relative;
+}
+html {
+  background-color: #F3F3F3;
+  color: #333;
+}
+
+#text {
+  font-family: 'Philosopher', sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+  color:#444;
+  transition: color 0.5s linear;
+}
+a:hover {
+  color:#666;
+}
+
+.shares {
+  position: absolute;
+  right:0;
+  margin-top: 10px;
+}
+#link-refresh, #link-source {
+  padding: 5px;
+}
