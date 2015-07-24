@@ -1,7 +1,9 @@
 .centered {
   display: block;
-  margin: 10% 25%;
+  margin: 10% auto;
+  max-width: 780px;
   position: relative;
+  font-size: 1.7rem;
 }
 html {
   background-color: #F3F3F3;
@@ -14,15 +16,18 @@ html {
   font-weight: 400;
   font-style: normal;
   text-align: center;
+  margin: 7% auto;
 }
 
 a:link, a:visited {
   text-decoration: none;
-  color:#666;
+  color:#888;
   transition: color 0.5s linear;
 }
 a:hover {
   color:#444;
+  cursor: pointer;
+  cursor: hand;
 }
 
 .shares {
@@ -39,4 +44,5 @@ footer {
   position:absolute;
   bottom: 5px;
   right: 10px;
+  text-align: right;
 }
