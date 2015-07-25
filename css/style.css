@@ -1,14 +1,15 @@
+html {
+  background-color: #F3F3F3;
+  color: #333;
+  font-size:62.5%;
+}
+
 .centered {
   display: block;
   margin: 10% auto;
   max-width: 780px;
   position: relative;
   font-size: 1.7rem;
-}
-html {
-  background-color: #F3F3F3;
-  color: #333;
-  font-size:62.5%;
 }
 
 #text {
@@ -35,7 +36,7 @@ a:hover {
   right:0;
   margin-top: 10px;
 }
-#link-refresh, #link-source {
+#link-refresh, #link-source, #link-add {
   padding: 5px;
 }
 footer {

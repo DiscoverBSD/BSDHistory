@@ -20,7 +20,7 @@ Format is pretty much self-explanatory.
 }
 
 ```
-So when forking, add your own and then create PR so someone can check it.
+So when forking, add your own and then create PR so someone can fact check it. Length of text should not be more than 100 characters (because we want to be able to share it on twitter).
 
 ## License
 
