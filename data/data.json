@@ -27,6 +27,10 @@
     {
       "text": "#BSDHistory : #OPNsense is a fork of #pfSense that in its turn has been forked from #m0n0wall",
       "link": "https://opnsense.org/about/about-opnsense/"
+    },
+    {
+      "text": "#BSDHistory : #MidnightBSD forked FreeBSD 6.1 beta on February 28, 2006.",
+      "link": "http://www.midnightbsd.org/about/"
     }
   ]
 }
