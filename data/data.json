@@ -31,6 +31,482 @@
     {
       "text": "#BSDHistory : #MidnightBSD forked FreeBSD 6.1 beta on February 28, 2006.",
       "link": "http://www.midnightbsd.org/about/"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.3 released on 1998/01/04",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/luna68k port started on 2000/01/05",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/dreamcast port started on 2001/01/07",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/hpcsh port started on 2001/01/17",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/arc port started on 2000/01/23",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.1.4 released on 2014/01/27",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.2.2 released on 2014/01/27",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.0.4 released on 2014/01/27",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.1.3 released on 2014/01/27",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/shark port started on 1996/01/31",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.1.2 released on 2012/02/02",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/evbsh3 port started on 2001/02/06",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/sandpoint port started on 2001/02/11",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.0.2 released on 2010/02/12",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/alpha port started on 1995/02/13",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/newsmips port started on 1998/02/18",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/hpcarm port started on 2001/02/20",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/mvmeppc, port started on 2002/02/27",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/prep port started on 2000/02/29",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.6.2 released on 2004/03/01",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/sbmips port started on 2002/03/06",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/evbmips port started on 2002/03/07",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/Solaris support added on 1999/03/08",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.3.1 released on 1998/03/09",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/xen port started on 2004/03/11",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/Interix support added on 2004/03/11",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/cobalt port started on 2000/03/19",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.4.2 released on 2000/03/21",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/i386 port started on 1993/03/21",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/atari port started on 1995/03/26",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/sun2 port started on 2001/03/28",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.0.5 released on 2014/04/12",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.1.4 released on 2014/04/12",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 2.0.2 released on 2005/04/14",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 0.8 released on 1993/04/20",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.6.1 released on 2003/04/21",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.0 released on 2009/04/29",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/x68k port started on 1996/05/05",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/acorn26 port started on 2000/05/09",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.4 released on 1999/05/12",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/hp300 port started on 1993/05/12",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/cesfic port started on 2001/05/14",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/macppc port started on 1998/05/15",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.0.2 released on 2013/05/20",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.1 released on 2013/05/20",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.2.1 released on 1997/05/20",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/amigappc port started on 2000/05/25",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/algor port started on 2001/05/28",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/ofppc port started on 1998/05/28",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.3.2 released on 1998/05/29",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/pmppc port started on 2002/05/31",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD gets its own package system on 1997/06/05",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/hp700 port started on 2002/06/06",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/netwinder port started on 2001/06/09",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/next68k port started on 1998/06/09",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/walnut port started on 2001/06/13",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/sgimips port started on 2000/06/14",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/x86_64 port started on 2001/06/19",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/sparc64 port started on 1998/06/20",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/Linux support added on 1999/06/23",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/sun3 port started on 1993/06/25",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/evbsh5 port started on 2002/07/05",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.5.1 released on 2001/07/11",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.5.3 released on 2002/07/22",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 3.0.1 released on 2006/07/24",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/mvme68k port started on 1995/07/25",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.0.1 released on 2009/08/02",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/vax port started on 1994/08/02",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/mipsco port started on 2000/08/12",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc forked from FreeBSD Ports on 1997/08/20",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.1.1 released on 2013/08/22",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 0.9 released on 1993/08/23",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.4.1 released on 1999/08/26",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/amiga port started on 1993/09/02",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/evbarm port started on 2001/09/05",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/pc532 port started on 1993/09/09",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.5.2 released on 2001/09/13",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.6 released on 2002/09/14",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/hpcmips port started on 1999/09/25",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.1.3 released on 2013/09/28",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.2.1 released on 2013/09/28",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/mac68k port started on 1993/09/29",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.0.3 released on 2013/09/30",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.1.2 released on 2013/09/30",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/sparc port started on 1993/10/02",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.2 released on 1996/10/04",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/cats port started on 1998/10/05",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/pmax port started on 1993/10/12",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/iyonix port started on 2004/10/13",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 4.0.1 released on 2008/10/14",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/bebox port started on 1997/10/14",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/playstation2 port started on 2001/10/16",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 6.0 released on 2012/10/17",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.0 released on 1994/10/26",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/Darwin support added on 2001/10/30",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 2.0.3 released on 2005/10/31",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 2.1 released on 2005/11/02",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 3.0.2 released on 2006/11/04",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 3.1 released on 2006/11/04",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/FreeBSD support added on 2002/11/17",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/acorn32 port started on 2001/11/18",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 5.1 released on 2010/11/19",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/OSF1 support added on 2004/11/20",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.4.3 released on 2000/11/25",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.1 released on 1995/11/26",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/OpenBSD support added on 2002/11/30",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/IRIX support added on 2002/12/02",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/AIX support added on 2003/12/03",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #pkgsrc/BSDI support added on 2003/12/03",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.5 released on 2000/12/06",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 2.0 released on 2004/12/09",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/news68k port started on 1999/12/09",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/evbppc port started on 2002/12/09",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/zaurus port started on 2006/12/17",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 4.0 released on 2007/12/19",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 1.3.3 released on 1998/12/23",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD 3.0 released on 2005/12/23",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/ews4800mips port started on 2005/12/29",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
+    },
+    {
+      "text":"#BSDHistory : #NetBSD/hp700 port renamed NetBSD/hppa on 2014/02/24",
+      "link":"http://cvsweb.netbsd.org/bsdweb.cgi/src/usr.bin/calendar/calendars/calendar.netbsd?rev=HEAD&content-type=text/x-cvsweb-markup&only_with_tag=MAIN"
     }
   ]
 }
