@@ -1,0 +1,16 @@
+{
+  "bsdhistory": [
+    {
+      "text": "#BSDHistory : Since May 8, 2015, #HardenedBSD project teamed up with #OPNsense to provide a custom distribution",
+      "link": "https://hardenedbsd.org/article/shawn-webb/2015-05-08/hardenedbsd-teams-opnsense"
+    },
+    {
+      "text": "#BSDHistory : #OPNsense name is derived from open and sense and stands for: 'Open (source) makes sense.'",
+      "link": "https://opnsense.org/about/about-opnsense/"
+    },
+    {
+      "text": "#BSDHistory : #OPNsense is a fork of #pfSense that in its turn has been forked from #m0n0wall",
+      "link": "https://opnsense.org/about/about-opnsense/"
+    }
+  ]
+}

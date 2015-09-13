@@ -1,0 +1,12 @@
+{
+  "bsdhistory": [
+    {
+      "text": "#BSDHistory : #FreeBSD first shipped #IPv6 support in March 2000 as part of FreeBSD 4.0-Release.",
+      "link": "http://www.freebsd.org/releases/4.0R/announce.html"
+    },
+    {
+      "text": "#BSDHistory : #MidnightBSD forked #FreeBSD 6.1 beta on February 28, 2006.",
+      "link": "http://www.midnightbsd.org/about/"
+    }
+  ]
+}

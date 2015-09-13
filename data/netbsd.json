@@ -1,9 +1,9 @@
 {
   "bsdhistory": [
     {
-      "text": "#BSDHistory : #MirOS BSD started on 29. August 2002, combining OpenBSD (-current) and NetBSD (-current) at that time",
+      "text": "#BSDHistory : #MirOS BSD started on 29 Aug 2002, combining #OpenBSD (-current) and #NetBSD (-current) at that time",
       "link":"https://www.mirbsd.org/history.htm"
-    },
+    },    
     {
       "text": "#BSDHistory : #ARM port of #NetBSD was added in NetBSD 1.2 (Oct 1996)",
       "link": "https://www.netbsd.org/releases/formal-1.2/"
@@ -11,26 +11,6 @@
     {
       "text": "#BSDHistory: The source for #NetBSD is derived from #386BSD 0.1, patched with the 0.2.2 patch kit",
       "link": "http://ftp.netbsd.org/pub/NetBSD/misc/release/NetBSD/NetBSD-0.8"
-    },
-    {
-      "text": "#BSDHistory : #FreeBSD first shipped #IPv6 support in March 2000 as part of FreeBSD 4.0-Release.",
-      "link": "http://www.freebsd.org/releases/4.0R/announce.html"
-    },
-    {
-      "text": "#BSDHistory : Since May 8, 2015, #HardenedBSD project teamed up with #OPNsenseto provide a custom distribution",
-      "link": "https://hardenedbsd.org/article/shawn-webb/2015-05-08/hardenedbsd-teams-opnsense"
-    },
-    {
-      "text": "#BSDHistory : #OPNsense name is derived from open and sense and stands for: 'Open (source) makes sense.'",
-      "link": "https://opnsense.org/about/about-opnsense/"
-    },
-    {
-      "text": "#BSDHistory : #OPNsense is a fork of #pfSense that in its turn has been forked from #m0n0wall",
-      "link": "https://opnsense.org/about/about-opnsense/"
-    },
-    {
-      "text": "#BSDHistory : #MidnightBSD forked FreeBSD 6.1 beta on February 28, 2006.",
-      "link": "http://www.midnightbsd.org/about/"
     },
     {
       "text":"#BSDHistory : #NetBSD 1.3 released on 1998/01/04",
@@ -510,4 +490,3 @@
     }
   ]
 }
-
