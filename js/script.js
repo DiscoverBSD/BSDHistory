@@ -23,7 +23,7 @@
     var item = items[Math.floor(Math.random()*items.length)];
     document.getElementById("text").innerHTML = item.text;
     document.getElementById("link-source").href=item.link;
-    var twitter_link = "http://twitter.com/intent/tweet?status="+item.text+"+https://bsdhistory.discoverbsd.com";
+    var twitter_link = "http://twitter.com/intent/tweet?text="+item.text+"+https://bsdhistory.discoverbsd.com";
     twitter_link = twitter_link.replace(/#/gi, "%23");
     document.getElementById("link-twitter").href=twitter_link;
  });
