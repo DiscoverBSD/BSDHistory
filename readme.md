@@ -4,7 +4,7 @@ This is repo for https://bsdhistory.discoverbsd.com, website to share short *twi
 
 ## More information
 
-* article at [DiscoverBSD](https://www.discoverbsd.com/2015/07/introducing-bsdhistory.html) (announcement)
+* article at [DiscoverBSD](https://discoverbsd.blogspot.com/2015/07/introducing-bsdhistory.html) (announcement)
 * article at blog of [Jan Hovancik](https://hovancik.net/blog/2015/07/25/bsdhistory.html) (background)
 
 ## Contribute
