@@ -26,7 +26,7 @@ Each OS has its file, eg: `miros.json` for MirOS. Format is pretty much self-exp
 }
 
 ```
-So when forking, add your own and then create PR so someone can fact check it. Length of text should not be more than 100 characters (because we want to be able to share it on twitter).
+So when forking, add your own and then create PR so someone can fact check it. Length of text should not be more than ~200 characters (because we want to be able to share it on twitter).
 
 If you are adding whole new OS, do not forget to add it to `js/script.js`, line 6. 
 

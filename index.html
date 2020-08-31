@@ -4,14 +4,25 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>BSDHistory | Homepage </title>
-    <meta property="og:image" content="https://github.com/DiscoverBSD/BSDHistory/raw/gh-pages/img/bsdhistory.png" />
-    <meta name="description" content="#BSDHistory - twitter-sized facts about BSDs">
+    <title>#BSDHistory</title>
+    <meta content="twitter-sized facts about BSDs" name=description>
+    <meta content="#BSDHistory" itemprop=name>
+    <meta content="twitter-sized facts about BSDs" itemprop=description>
+    <meta content="https://github.com/DiscoverBSD/BSDHistory/raw/gh-pages/img/bsdhistory.png" itemprop=image>
+    <meta content=summary_large_image name=twitter:card>
+    <meta content="#BSDHistory" name=twitter:title>
+    <meta content="twitter-sized facts about BSDs" name=twitter:description>
+    <meta content=https://bsdhistory.discoverbsd.com name=twitter:site>
+    <meta content="https://github.com/DiscoverBSD/BSDHistory/raw/gh-pages/img/bsdhistory.png" name=twitter:image>
+    <meta content="#BSDHistory" property=og:title>
+    <meta content="twitter-sized facts about BSDs" property=og:description>
+    <meta content="https://github.com/DiscoverBSD/BSDHistory/raw/gh-pages/img/bsdhistory.png" property=og:image>
+    <meta content=article property=og:type>
+    <meta content=https://bsdhistory.discoverbsd.com property=og:url>
+    <meta content=en32oj name=flattr:id>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href="css/style.css" rel="stylesheet">
     <link href='//fonts.googleapis.com/css?family=Philosopher' rel='stylesheet' type='text/css'>
-
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -20,9 +31,9 @@
     <![endif]-->
   </head>
   <body>
-    <div  class="centered">
+    <div class="centered">
       <h1 id="text"><i class="fa fa-spinner fa-pulse"></i></h1>
-      <div  class="links">
+      <div class="links">
         <a id="link-source" href="" title="Source"><i class="fa fa-circle fa-info fa-lg"></i></a>
         <a id="link-refresh" onclick="init();" href="#" title="Next (random) fact"><i class="fa fa-refresh fa-lg"></i></a>
         <a id="link-add" href="https://github.com/DiscoverBSD/BSDHistory#contribute" title="Add new fact"><i class="fa fa-plus fa-lg"></i></a>
@@ -32,12 +43,11 @@
       </div>
     </div>
     <footer>
-      <p>  <a href="https://github.com/DiscoverBSD/BSDHistory" title="source code"><i class="fa fa-github fa-lg"></i></a>
-      <a  href="https://twitter.com/search?src=typd&q=%23BSDHistory" title="twitter hashtag"><i class="fa fa-twitter fa-lg"></i></a> </br>
-       made with ♥ by <a title="Website of Jan Hovancik" href="http://hovancik.net">Jan Hovancik</a> and <a href="https://github.com/DiscoverBSD/BSDHistory/graphs/contributors"> contributors</a>, 2015+</br>
-      requires JavaScript. no trackers.</p>
+      <p> <a href="https://github.com/DiscoverBSD/BSDHistory" title="source code"><i class="fa fa-github fa-lg"></i></a>
+        <a href="https://twitter.com/search?src=typd&q=%23BSDHistory" title="twitter hashtag"><i class="fa fa-twitter fa-lg"></i></a> </br>
+        made with ♥ by <a title="Website of Jan Hovancik" href="http://hovancik.net">Jan Hovancik</a> and <a href="https://github.com/DiscoverBSD/BSDHistory/graphs/contributors"> contributors</a>, 2015+</br>
+        requires JavaScript. no trackers.</p>
     </footer>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/script.js"></script>
   </body>
 </html>
